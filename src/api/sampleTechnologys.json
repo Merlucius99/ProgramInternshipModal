@@ -1,0 +1,26 @@
+[
+  {
+    "id": "technology1",
+    "name": "Azure"
+  },
+  {
+    "id": "technology2",
+    "name": ".Net"
+  },
+  {
+    "id": "technology3",
+    "name": "Java"
+  },
+  {
+    "id": "technology4",
+    "name": "ReactJs"
+  },
+  {
+    "id": "technology5",
+    "name": "React"
+  },
+  {
+    "id": "technology6",
+    "name": "Native"
+  }
+]
